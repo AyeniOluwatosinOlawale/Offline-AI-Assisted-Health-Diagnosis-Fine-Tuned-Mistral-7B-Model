@@ -1,0 +1,2 @@
+# Offline-AI-Assisted-Health-Diagnosis-Fine-Tuned-Mistral-7B-Model
+This project demonstrates a proof of concept (PoC) for an AI-assisted health diagnosis system designed for offline use in rural healthcare settings. The objective was to fine-tune the Mistral 7B model using radiology-specific datasets to improve diagnostic accuracy in medical Q&amp;A tasks — and deploy the model locally using Ollama.
