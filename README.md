@@ -138,4 +138,10 @@ Fine-tuning yielded measurable improvement in:
 - [Mistral AI](https://mistral.ai/) for the base model
 - [Unsloth] (https://unsloth.ai/) for finetunning the base model
 - [Ollama](https://ollama.ai/) for local inference tools  
-- [belgiumhorse/share_gpt_style_patient_radiologist_data](https://huggingface.co/datasets/belgiumhorse/share_gpt_style_patient_radiologist_data) for domain data  
+- [belgiumhorse/share_gpt_style_patient_radiologist_data](https://huggingface.co/datasets/belgiumhorse/share_gpt_style_patient_radiologist_data) for domain data
+- Here’s a concise, professional, and heartfelt **acknowledgment** you can include either in your GitHub README or your LinkedIn post to recognize **@SIFU-john’s** contribution 👇
+
+---I extend my sincere appreciation to **[SIFU-john](https://github.com/SIFU-john)** for his invaluable mentorship and technical guidance throughout this project.
+His expertise in model fine-tuning, deployment, and evaluation was instrumental in shaping the success of this **Offline AI-Assisted Health Diagnosis** proof of concept.
+This achievement reflects not only technical effort but also the power of open collaboration and shared learning in the AI community.
+
