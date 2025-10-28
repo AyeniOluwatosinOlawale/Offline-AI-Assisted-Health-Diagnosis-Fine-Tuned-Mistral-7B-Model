@@ -8,21 +8,6 @@ The objective was to **fine-tune the Mistral 7B model** using **radiology-specif
 
 ---
 
-## 📘 Table of Contents
-1. [Background](#background)  
-2. [Objectives](#objectives)  
-3. [Methodology](#methodology)  
-4. [Setup & Installation](#setup--installation)  
-5. [Fine-Tuning Process](#fine-tuning-process)  
-6. [Evaluation](#evaluation)  
-7. [Deployment with Ollama](#deployment-with-ollama)  
-8. [Results & Comparison](#results--comparison)  
-9. [Management Report Summary](#management-report-summary)  
-10. [Repository Structure](#repository-structure)  
-11. [Acknowledgments](#acknowledgments)
-
----
-
 ## 🏥 Background
 Access to **accurate diagnostic support** in rural and offline areas remains limited due to poor internet access and shortage of specialists.  
 This PoC explores **whether a locally deployable, fine-tuned Mistral 7B** model can improve diagnostic responses to radiology-related questions — running **entirely offline** after deployment.
@@ -56,12 +41,6 @@ This PoC explores **whether a locally deployable, fine-tuned Mistral 7B** model 
 - Python ≥ 3.10  
 - Ollama ≥ 0.1.20  
 - Git & Hugging Face CLI installed  
-
-### 2️⃣ Clone Repository
-```bash
-git clone https://github.com/yourusername/Offline-HealthDiagnosis-AI.git
-cd Offline-HealthDiagnosis-AI
-```
 
 ### 3️⃣ Create Virtual Environment
 ```bash
@@ -151,21 +130,6 @@ Fine-tuning yielded measurable improvement in:
 ## 🧾 Management Report Summary
 **Conclusion:** Fine-tuning the Mistral 7B model substantially improved its domain-specific reasoning in radiology diagnosis tasks.  
 **Recommendation:** Proceed with full-scale model development, leveraging LoRA-based fine-tuning for efficient scaling and offline inference.
-
----
-
-## 📁 Repository Structure
-```
-Offline-HealthDiagnosis-AI/
-│
-├── data/                        # Processed dataset samples
-├── notebooks/                   # Training & evaluation notebooks
-├── scripts/                     # Helper scripts (Ollama API, inference)
-├── Modelfile                    # Ollama model definition
-├── requirements.txt
-├── README.md
-└── report/                      # Management report & screenshots
-```
 
 ---
 
