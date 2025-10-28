@@ -136,7 +136,7 @@ Fine-tuning yielded measurable improvement in:
 ## 🙌 Acknowledgments
 - [Hugging Face](https://huggingface.co/) for open-source model hosting  
 - [Mistral AI](https://mistral.ai/) for the base model
-- [Unsloth.ai] (https://unsloth.ai/) for finetunning the base model
+- [Unsloth](https://unsloth.ai/)for finetunning the base model
 - [Ollama](https://ollama.ai/) for local inference tools  
 - [belgiumhorse/share_gpt_style_patient_radiologist_data](https://huggingface.co/datasets/belgiumhorse/share_gpt_style_patient_radiologist_data) for domain data
 - I extend my sincere appreciation to **[SIFU-john](https://github.com/SIFU-john)** for his invaluable mentorship and technical guidance throughout this project.
